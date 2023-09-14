@@ -1,6 +1,6 @@
 local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/Vape.txt")()
 
-local win = lib:Window("Zyphons script stash :3",Color3.fromRGB(255, 255, 255), Enum.KeyCode.RightControl)
+local win = lib:Window("Zyphons h4xor gui :333",Color3.fromRGB(255, 255, 255), Enum.KeyCode.RightControl)
 
 local tab = win:Tab("Hats and animations")
 
